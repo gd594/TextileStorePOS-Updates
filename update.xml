@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+  <version>1.0.1.0</version>
+  <url>https://github.com/gd594/TextileStorePOS-Updates/releases/download/1.0.1/StoreUpdate_v1.0.1.0.zip</url>
+  <changelog>Added dynamic preferences and signature printing.</changelog>
+</update>
